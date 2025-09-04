@@ -1,0 +1,4962 @@
+[
+  {
+    "id": "40f6d184-f65d-4123-982c-d530e15a5a01",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.51,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "6712ec6d-3702-496b-aec0-d5bf0e2fe7c8",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.31,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "68165f47-c93b-438e-bc73-5759e24afdeb",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 7.06,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "07194c4c-340e-43d7-99ef-905fda817835",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 11.16,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "0099d9ff-b9fe-4fff-b356-8fe69b22bb99",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 6.09,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "166286f5-b7aa-4029-a3d2-d4d735158ce5",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 6.95,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "530bb170-f00a-4d6f-a218-48bf3c11a1ca",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.61,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "01e15bf9-a14c-4c78-afcd-5839c8f9598c",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.77,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4f787b0b-77b4-4016-aa67-60e85a5b1be8",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.72,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "cb04d747-3da1-40f1-b4cf-bf32b10c76df",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.7,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "e6db00ce-62b2-4374-8954-ff6200cacee3",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.12,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "172c5788-9060-413e-9911-df675c587ec8",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 7.71,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2cbbd560-43ae-4b8b-aef0-c35a411e7d81",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 7.14,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "eb17484f-c21e-4991-bd4a-a3b47ce8cf66",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.06,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "351d86d0-7c23-4ded-8196-156044964504",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.07,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "dd5f47f3-3fec-4198-8abe-b137cf1aba6e",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.85,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "c64884b7-c71b-456d-bd44-3bfb091ba022",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.58,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "74c452bb-3089-4b15-af3f-302b6d97cb09",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.11,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "0dbd9d3a-2268-4bad-8d78-edcee618b10d",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 7.04,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "16881028-847c-4810-b0dc-f56d5ac9a832",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 7.4,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "cfb5db0f-36ca-4719-b523-bab58bb65f14",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.28,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "d06c5f77-d789-4986-8c71-e230213d8fed",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.49,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "eafc468b-67fe-4b69-887c-8c9aeda5fde2",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.36,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "aea5f24e-1dd6-472a-bd75-9d6d915947fe",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.01,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "75ead196-af34-4fc8-a02a-dfcdba2acb5b",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.26,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2ea415dc-3560-4a36-868c-13ddd3e9345b",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 6.56,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "15b21005-bcd8-4960-9d4b-8d9497b8b2f7",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 6.85,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "d46cdba5-beb1-4e00-a57d-44bd952512b9",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.08,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "69bbd648-f55f-4c01-9b82-e5bc506f76a9",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 9.61,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "3ddfd5dc-a9f1-40c5-b99f-d255e1e00dd6",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 8.88,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4e4fe1e3-c0b3-4ad8-a8ee-95ae48b0d880",
+    "resource_id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "service": "container",
+    "cost": 10.46,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "18630973-01f3-48ff-a0cc-fcd7bc60f940",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.47,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0241a4c1-cfe6-4810-a017-483a211b4dc6",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.88,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "8ac0d6d7-6090-4b5b-a4df-347c1bf5d55d",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.4,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "60adcce0-7446-43db-8243-d638998c1e01",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.86,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "e72c9ba6-58fa-4879-b592-f7120daa7bb5",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.56,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "9ec5b811-3ead-425e-972a-55b52c06ec9a",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.46,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "68157773-1e12-49d0-916f-474167a0df02",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 7.13,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "da42e765-1f7c-4894-87f3-d16e4de359cf",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.53,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "dfdb683a-f4a5-4e5c-a2cb-bc77109c8f2a",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.69,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "949122a0-2030-4e93-9c27-93a5a2cc491d",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.75,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "9ee5037e-47ac-436d-a38b-a6b19937d3ba",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.81,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "456922d7-524c-4995-ba59-033d6b098b07",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.03,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0f089ed2-38ad-4437-8a64-c530499a4b94",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.77,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "d0b938fc-4f89-4ad5-8696-9400c5e9f965",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.13,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "136e62f7-dba5-4eaa-a96f-ddb928605db3",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.91,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "d6695d50-3ffe-492a-b798-0ffdc95573d7",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.39,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "9b13eaf2-c5b3-41e1-983b-a238f68de71d",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.36,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "253316ff-599f-4af6-8019-23cd97a7fae7",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.06,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "dcfa5480-6f1d-4d85-9417-011199d67418",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.31,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "80c3257b-4635-449e-a7dd-ec67c0e1c47d",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.42,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0a16f126-3643-45cd-a240-50900bb5b4e6",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.99,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "e03ce53f-0445-4df7-b750-d9be9e8f61b2",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.82,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "12ab5c0c-258d-4eec-96b1-42949c907ab6",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.7,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "6b72a119-31f4-45db-b726-166d20198337",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.94,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "42b07cf1-687b-4073-baaf-1a5d74026f31",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.11,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "a6cdba05-17f8-404c-8c62-51d91917f510",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.51,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0281979a-2e64-4db4-b20e-e0c9c33dfdbd",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.16,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0fa8931e-72f3-42cb-94f0-f2e4618ca748",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.17,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "7e1681c4-7567-40cc-bd99-c2982b734d43",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.7,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "fe626179-1615-4d21-ad83-6c21d31c891f",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.95,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "11a4cb9f-39a9-4744-9ce9-144e9fec093d",
+    "resource_id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.93,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "7a3fe96e-8409-4a63-a4c9-b0dd93dd1be7",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 114.89,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "1392e802-50db-4f58-92b7-38b49126d9b6",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 105.27,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "1e994cd0-68f5-44b3-b93f-2685d972dc6e",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 129.07,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "4ce15691-f650-42f4-93be-d623ec017581",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 140.68,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "ea755f9a-0e2f-4a8f-b84b-6bb2d272bb8e",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 128.09,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "e25dce92-7c63-4540-a76d-8c248c78e1c1",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 114.96,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "4baa06fd-9bb1-424e-ac87-06123bc4c0e5",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 135.5,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "cb915902-35f8-4dfb-be44-42d677e378c1",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 118.11,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "6f0839b6-0036-4a52-aa53-adbded725ba6",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 107.21,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "bfaf2d5f-7f02-4c64-bea2-2bc08c1d55f4",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 110.27,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "bdff01c9-7b90-4575-bef2-5c980831beb6",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 132.44,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "252dfd15-5dc2-4173-b6b2-bd370b23e332",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 121.66,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "cdf136e7-20cb-44b3-9bf9-5dfc7bdff798",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 112.18,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "1a313e56-da4e-4ae5-93a1-dc138161516f",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 128.92,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "96e34425-289d-4bd7-97b1-3c18bff4f6c7",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 138.57,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "bb01b67f-fa97-4893-8623-1fb45663494c",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 112.79,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "dead1d27-ecd7-4819-bbcf-01c5fb6d944c",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 144.02,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "6fcad3f6-0e87-42b9-8d25-689caea736ec",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 126.51,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "e15628ce-0c02-4556-89a3-74bc29f284ba",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 136.87,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "45c7fd52-f1d9-422e-b98d-f9e9ba536c65",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 149.9,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "f8d7d88f-fded-4743-8802-45ee6527a34a",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 140.79,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "de0e0449-e0de-4109-9c17-7623cac59efd",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 122.62,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "49eed5d3-4033-486e-8cb2-fdc233e2d4cc",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 153.76,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "4310fcf7-6899-47f2-acd8-9f6d21aa1f10",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 129.33,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "4189ccea-1a8e-4c54-8b4a-c16b82665806",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 143.7,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "55fb17a9-6355-4f31-9e7f-e46d92d4dbff",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 115.19,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "3e776e49-339b-482b-b306-5a37775f2ec3",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 104.32,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "d3a767e2-42ff-404f-a968-66c829b024fc",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 119.88,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "ecf2cf41-4089-4a1e-b8b9-dc45e5debb05",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 167.07,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "284b137c-b808-457f-8ff8-9305e50ba2e1",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 123.82,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0e8b280e-9dff-45a1-a0a0-d61e02f864bc",
+    "resource_id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 151.79,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "60615a6d-aece-4ff5-99b3-95986a88e870",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.61,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "9c444116-be1b-4d9d-bd5a-9b2274d36697",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.3,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "f81a4acc-74f9-4e7f-8213-a4322e808243",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.21,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "74237fea-35a6-4c7f-bc2c-23e174b3800a",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.34,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "99fe1c03-ff79-4a75-9e32-a3c75dcede8f",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.76,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "9e484919-62ce-40c4-a7c1-89c375fdccc9",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.18,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "a3bb349a-c79b-46d8-a8c5-1182a7f63c1d",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.96,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bb65af81-7401-4302-82ee-e3a6d3c5699c",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.03,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "257e4237-b021-4f20-9ad6-0da16b3cfabb",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.1,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "88bbda16-1784-49c3-aba2-fb41c4fd3a29",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.07,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bd637aab-2e7d-417e-ae7e-bcfcb42aace3",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.37,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "0409ff1a-4ea1-405b-a73a-1d55dd67d9a9",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.36,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "43bad3de-e8cd-4236-96a8-9adf3396d1dd",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.7,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "8e19df63-df5c-4009-a3fd-8907a55652ef",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.44,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "7c886a59-5eac-4642-9fb4-9a4db493eeb2",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.46,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "926f5696-1f46-421d-b206-d86fc46b5e1d",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.9,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "819e2335-4af4-48a5-bafb-096442623b3b",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.38,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "ee824d1d-f7fa-447c-a57a-6fee98fa9435",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.95,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "249f314d-11b3-497c-a772-e1c7209c3afb",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.17,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "78f74150-5c2a-47ae-8500-2b922e70d907",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.97,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "f1ee25d1-45e0-4289-90da-af4dc8192371",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.39,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4f17279a-6a0a-469e-a192-c683eecdcb64",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.97,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "25471c27-a3c5-42fb-bb4a-bfad811443ac",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 6.45,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "c7cd1864-e18c-4db3-95de-d711e66cf84b",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.49,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "5c4e60a2-3058-4a87-b2f0-679b3c54a9a2",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.24,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bf71a8f9-6616-417d-a50b-88ce35af0762",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.96,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "c2295fbd-5d7d-4aae-82be-5499f82134d8",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.36,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "1d46bd98-4b6d-414a-b02c-575a3f2e0c2c",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.09,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2c2c0c33-3375-4382-b8de-6f183166d796",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.06,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "48ed0324-470d-4b95-bf48-f4a012de5150",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 4.23,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "8baf72fa-4fce-4916-9b91-1c16ed8dcedb",
+    "resource_id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "service": "network",
+    "cost": 5.17,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "02135cea-844b-4aa5-ae04-ffd56a778c53",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 125.06,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "ecb84256-2ab0-468e-abb6-c5de2e927409",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 141.1,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "2097a069-5419-4712-b6aa-1be9dcbffc65",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 156.59,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "aee283b9-3c8c-4210-95db-7cb6c0997382",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 131.19,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "568938f5-bbc7-4b3f-89a6-292072a2f47c",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 130.33,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "7786b208-b995-4baa-95d2-cdf540f45df3",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 153.0,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "16bb1bd0-459a-4192-bb61-1873c84c8d94",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 131.97,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "83338d25-b69b-44f4-af13-0bf111df0cc4",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 136.3,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d8dd95c7-bb37-41d6-bb9d-185334db5fc5",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 111.55,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "4f43d7c7-2b91-455e-81e9-21ae0c899a29",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 138.08,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "10832963-ca3d-4a5e-9629-01a7e57aa112",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 118.38,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "6459ae54-8820-4ec3-a792-5553c0213af0",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 108.22,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "8f1cfe60-a8a1-4a34-b8a8-976a6d0852bd",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 114.8,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "db481f16-4106-478d-b07a-07336327216b",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 138.6,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "03583343-95ab-4b60-a52f-f8b4345065b7",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 159.43,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "7c79a6f1-f7bf-4af6-9361-a6fb71b73c86",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 141.74,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "c24363e3-ce11-4356-8dcb-5e94820cd00c",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 106.58,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "a9213a05-ced0-4f05-9982-ccc86a5a4587",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 152.96,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "63fa4233-709a-4bf1-999a-f6dd6547d7a1",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 140.32,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "e2aec212-1b99-428e-8475-86dde9ba326a",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 97.61,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "38cae516-daab-4ca7-8a0f-7cd3e0e5fd33",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 142.57,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "9872f0f0-6200-412d-beb0-61c21b52cdd1",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 139.64,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "951d3899-471c-40e9-b50e-ca458658f9f3",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 110.86,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "b68c0a3c-cc43-47f6-ab64-23676f3380f6",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 154.1,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "f3110f82-585d-451a-8c11-86a2b568ef86",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 104.32,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d4a8aecc-d687-42c4-b7bf-61703f5bf4a1",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 105.06,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "e5dad63e-b26f-4b81-a74b-39b53195b787",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 111.72,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "08a53cac-c0f5-47d8-8982-516ae9cb87be",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 158.42,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "9830b0ae-0850-4a92-9d8c-ce1de0f88d95",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 136.5,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "9a927b87-c920-4add-8b92-37c637da66eb",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 129.43,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "85f4f4ea-93b2-4a04-ab92-74d92f441719",
+    "resource_id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 108.36,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "8ce9f644-17b7-4947-b1fb-621a75c9246e",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.75,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "7b12dee2-a9c6-4813-98c2-f8a4e17ecede",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.93,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "129d7a57-2f59-4e1e-a9f1-6e5a07e30d74",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.9,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "2ae1c2d3-4227-44a7-8ade-ceb3641258cb",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.11,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "e32e015f-9ce5-4302-b9b4-8340baa08056",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.92,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "59456afa-a045-4724-bafb-3dd16e0e51b4",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.47,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "443ccaf5-a164-4ec7-ae6b-a745fca8fe76",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.38,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "1388148c-adba-41f5-a754-a54166b1dd5b",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.11,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "0969d779-a1f5-4363-8ead-943faa998bc1",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.79,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "659fd03a-c2cc-4434-bce4-9c2f79a0c5ba",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.25,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "d98c4937-189e-4361-9003-4873c6b06de2",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.12,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "8e24b891-4e9e-45f5-ae0d-6b9dbed06b80",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.13,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "f54b971c-9837-462a-afa7-342938bf68cc",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.17,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "fc9e013a-7f26-4cfe-8a5a-67fe0a67eeaf",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.05,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "15af6556-c5ea-496e-aca3-440b3eb6c070",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.14,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "8de73553-ff10-4c7a-94ef-0ac79cd63d0c",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.17,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "f007d932-c15d-4ff3-a290-384dae428524",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.92,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "9746b0cd-4d10-4ee5-bf48-21d4c5378203",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.79,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "3fa308ad-4e91-42ee-8a76-1be113724d43",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.82,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "cbe12baf-6320-4bd1-ab27-a51f6d347a2c",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.62,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "61bb7b42-f317-4584-8c92-5e892ff8a465",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.15,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "635fb7a2-a467-4016-a28d-63ef92b3d574",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.03,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "07567c13-a634-43d0-97a5-13866850c874",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.9,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "cbd2c554-7ee1-49d9-8d8e-b2f95f31b854",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.04,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "68cb5bde-1e1a-4d20-960b-384526fa5148",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.62,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "ac770753-fefe-453c-8f2a-397080860d5b",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.95,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "64c70ab7-c58a-479f-817d-268dda969e79",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.3,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "dbf29883-9002-43a5-b1e1-df3ce87af607",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.04,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "9870287b-9bce-48e0-87d8-6aca8ac8a432",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.68,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "f9ed2ce2-e320-4f5a-9b5f-2dc684f098c1",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 1.92,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "621d8e9e-864f-4fc9-8a8d-966232cadf97",
+    "resource_id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "service": "storage",
+    "cost": 2.38,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    }
+  },
+  {
+    "id": "3d371ed3-09b7-46df-a69d-0ed424a74b1f",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 70.12,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "4cedea4d-6eaf-4835-b343-6ce50a1c8f7f",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 73.83,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "9a331454-9a49-4578-bb6e-4eddf847e187",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 63.22,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "a0317ef0-450f-4d65-b411-d1ec40db7447",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 54.82,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "e6f1ddef-04c5-4169-a253-e73f1c44987e",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 66.79,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "6a9b8c66-52f6-4623-8e56-e179ae0177b2",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 58.98,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "6da6a759-53c1-483a-b3c2-cafd7190bf67",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 52.65,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "62647303-00a6-4bfb-8555-7976bdaa6adc",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 74.46,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "00af925d-a89f-4a43-a078-a475d5884e6b",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 56.49,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "4304720a-c97b-4a72-a903-7e7274ac5086",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 58.34,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "262001fb-1ef8-43db-88a9-58c545381907",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 57.01,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "1fdf3fdd-f625-4331-b414-d81cb9330ef4",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 48.43,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "c4973d2d-093b-42c6-9dbe-3c56191c276b",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 59.77,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "a8547432-79ed-48da-ad24-ae1acd98bdb4",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 54.52,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "ee8aeb6b-d276-4b0c-8995-f12d89d1c499",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 60.87,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "eb3a8849-6269-4d55-b54a-3c49a721f2b1",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 70.08,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "67f50111-0bdf-4072-8b0d-95713ea480c1",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 67.94,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "0d37875e-2900-458c-9512-5391e78d3535",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 70.91,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "2a64e941-e9f9-4ca6-ac9b-9f3c23965744",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 67.54,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d41c4879-cf2f-4c83-b15f-58090e3ba5ff",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 73.61,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "b4012a35-34db-4a60-98b2-a27336d52b7f",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 73.46,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "81059d72-bfc7-4907-beba-219e4ecb3b85",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 75.14,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "23a16a49-6406-43fb-85c9-507389ad8fca",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 67.11,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "e0aa265c-67ea-4fd2-b249-78b3324e0469",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 58.12,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d8626340-0004-45f2-bfd7-19a130f33992",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 60.28,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "5d0a1f8d-77c6-46b4-bed1-bc75bd8aa2b4",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 64.75,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "8b32f18b-6fc6-495b-93b3-539c3f7e5c96",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 62.62,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "f009c92c-5842-4027-935d-ad561980ecc6",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 55.97,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "c8a82d9f-14fe-48ce-9eed-8b9b160ecdd1",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 75.26,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "0e905228-2f9f-4344-ba44-df949b61f56c",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 66.96,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "f5cccdb4-03de-4803-a90a-cc2c2f276db7",
+    "resource_id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "service": "compute",
+    "cost": 74.63,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "f1a8568c-00e4-42de-b4b6-a395df86feec",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.89,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "68aa01e5-4094-4cb2-91a6-79e0aa2e3b28",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.91,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "fd902186-86d8-413e-84f5-9258406e072a",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.26,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "63453363-d686-4a5b-9465-82b0f1a5044b",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.11,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "deec5632-4aaf-48ec-8cc1-82541d35c4ce",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.02,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "dca40170-bae6-4a60-a2d1-df0477aaffd0",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.01,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "b193c7a2-52da-438d-b92d-2dee1978b2d1",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.01,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "0f0eb89b-3e3c-4c4f-a48c-73b5c71b3db2",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.07,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "50d510b6-1ecf-4ae7-83bd-bd3a5850b2a7",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.31,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "15ec055d-3a99-414a-a394-79856da516a7",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.12,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "e598112f-f9c2-4f79-aa13-51ebe60d9d1e",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.06,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "210f543d-cea7-40d2-bd79-4b7220f90498",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.11,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "1edfb88c-8959-4929-a13c-501ebcf1c21b",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.91,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "1cef1fc8-ab35-422f-a094-1b81e2dfb92f",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.91,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d7aca842-8902-4241-8ee4-6b9b3eaa6baa",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.05,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "c2cdf027-fb5e-4f9a-941d-781903423f0a",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.83,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "1305f989-fbb8-45e1-a65d-966f040f2f93",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.06,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "fbd95e0c-c4e4-4499-9cd4-40fcb48f9def",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.27,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "4dc33da4-9786-470c-8011-a9e0de92f1b4",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.07,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "34836555-a26e-4c3d-85c0-be8a07928031",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.95,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "eadf9723-40f5-4e5b-9ce8-28e4503fd552",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.9,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "0eedc96d-c30c-4e01-97c2-8f8132c75a72",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.24,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "688b85e4-613b-4c80-9b5c-e2a65102b236",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.9,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "d9a8e29b-5aba-4eb2-acf2-a423afe82c67",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.02,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "5fc8da87-f321-4338-938c-cb4c47e4b8ba",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.91,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "6564ff81-68c2-4103-a06f-a0083edf3700",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.95,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "034013ee-9f3c-4c19-b944-09f9ccd9c3ec",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.12,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "10c85310-1581-4091-a81c-4a1e232942c0",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.27,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "2a3e9b61-754c-4890-96c2-0b87ab8c5e5e",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.93,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "29e16bc3-8ccb-44ab-81aa-90475aea8db7",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.98,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "85241f67-d6d5-49e5-ac2e-23ce0eb337bd",
+    "resource_id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.32,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    }
+  },
+  {
+    "id": "836497c2-bab4-4f0d-8552-adf1a5f87fc9",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.88,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "5d6ab700-fbf4-468a-a2c1-f2898e115054",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.12,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "13bb066c-8516-45f4-bc0e-222041b4b224",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.14,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "0309da1f-d20a-4edd-a972-703080e94d67",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.87,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "32bc0d21-cb9f-4ba6-bec3-a04f1311ca69",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.98,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "3a4ec703-870b-4ecf-a878-d8d6046d96c3",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.8,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "b623ddae-f32b-403d-b658-4677f09fbe77",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.17,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "d917f97c-832c-4e50-adc8-ff0897052e07",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.99,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "77c6fead-d3f6-4027-8ef7-974dc4957d75",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.07,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "fc37ca3c-6786-4273-a5d5-1c8339f742e4",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.05,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "49704294-1e11-4948-9911-237c7a78df00",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.07,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "90022ae3-8a0b-46a7-8bed-12c8796871b5",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.93,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "de914576-3865-468b-8c3a-b7f17026fd3f",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.87,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4ff0e480-83e3-4dfb-9207-9e50363430a2",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.17,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "1cd0ae50-7d94-427d-b59d-834ef2e16f0f",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.0,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "e5cd0ce7-7f31-4f48-a8be-dff3e2475e08",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.2,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2bda3310-0c7c-4997-81e1-75790da81aca",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.17,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2f920bca-11bd-4f71-bdd2-b1224abaf350",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.11,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "328cd53d-edb9-4787-9b95-1bf93463e285",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.82,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "793a2127-cf40-4a2a-8808-ca8a4f73d098",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.06,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "7e34aea1-eceb-423f-9055-b989e32c4a28",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.23,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "6fa3019b-bd2f-4d9e-bc0a-3f702ec0e9cb",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.14,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bbe07e5a-9b42-4f52-9c36-0001ac51bb71",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.26,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "a42e672e-4e2f-48aa-9c13-24b3d9516c6e",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.08,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "00d6d362-05fc-49e9-9e76-30830259f488",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.28,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "3c5a5cce-f4a9-4280-bdba-23bf69b92ec6",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.83,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "762183f6-5be5-4906-9c32-b41b3dd127e6",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.91,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "aef7f98a-037d-4175-a25a-4dcf231c1343",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.92,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "114cf299-1e83-4625-99c6-8c6c87c255ba",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.9,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "ce24ca61-aae2-48f6-a739-fb0f5ca109e6",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 0.82,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "832fc9d6-3778-4e29-893b-e14c6b95d9f5",
+    "resource_id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "service": "serverless",
+    "cost": 1.25,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "605c6fe9-03a3-46fa-aa4a-6287ad4679a7",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 23.41,
+    "currency": "USD",
+    "date": "2025-08-05 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "a6c3294e-f694-44f8-9f9f-f920edee20f8",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 26.08,
+    "currency": "USD",
+    "date": "2025-08-06 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "12a769f3-fd10-47b1-bc34-eaa70466a324",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 24.36,
+    "currency": "USD",
+    "date": "2025-08-07 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "234310a1-13ac-4c68-b187-7516073eeeb6",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 35.06,
+    "currency": "USD",
+    "date": "2025-08-08 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "52d3314f-7bb9-411d-bc86-ddac9db93cec",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 31.95,
+    "currency": "USD",
+    "date": "2025-08-09 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "b0da1ddd-4ba7-4d77-9be1-707dbb4b851f",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 21.61,
+    "currency": "USD",
+    "date": "2025-08-10 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "9faaf64a-2dff-43c8-8647-4bedcf772068",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 28.93,
+    "currency": "USD",
+    "date": "2025-08-11 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "7d96a044-54e0-47a7-8194-97572036df03",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 31.35,
+    "currency": "USD",
+    "date": "2025-08-12 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4e75a126-91af-4868-a1dc-b7f014aedbad",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 25.81,
+    "currency": "USD",
+    "date": "2025-08-13 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "e8eaac7d-8853-4e99-a2d8-01f5f8c44615",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 28.24,
+    "currency": "USD",
+    "date": "2025-08-14 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "d529cf89-1e50-4a0a-8377-2c49cadb231c",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 27.31,
+    "currency": "USD",
+    "date": "2025-08-15 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "736702bb-8fce-48ec-a947-37800961eed7",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 27.7,
+    "currency": "USD",
+    "date": "2025-08-16 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "56fe0520-cd75-44fa-b5f0-39e7d83019d6",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 28.13,
+    "currency": "USD",
+    "date": "2025-08-17 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bb02fa27-989e-47c8-af1c-a668e6158424",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 29.61,
+    "currency": "USD",
+    "date": "2025-08-18 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "de89d289-5f57-44fe-b691-8de1cdc3fb1b",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 25.18,
+    "currency": "USD",
+    "date": "2025-08-19 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "787c6a50-24a5-4215-9bda-55036f588185",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 31.18,
+    "currency": "USD",
+    "date": "2025-08-20 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "bd1b4636-da42-4624-b01c-96ff7eeb1a14",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 21.54,
+    "currency": "USD",
+    "date": "2025-08-21 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "65e1d2c5-2513-497c-a426-d8fcefaabf6e",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 24.0,
+    "currency": "USD",
+    "date": "2025-08-22 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "87608a25-c761-4322-949a-fc1846cd316d",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 25.39,
+    "currency": "USD",
+    "date": "2025-08-23 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "d311415e-e9a4-4dbd-9fda-cf558d77641e",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 20.1,
+    "currency": "USD",
+    "date": "2025-08-24 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "862dc90a-2fc6-4767-9b0c-ddd260aaeb5c",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 30.77,
+    "currency": "USD",
+    "date": "2025-08-25 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "37a6bafa-b87a-499a-bf2e-800cc8d77082",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 24.29,
+    "currency": "USD",
+    "date": "2025-08-26 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "f1b94efb-a394-4fd7-a157-30c9eaac92f2",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 20.86,
+    "currency": "USD",
+    "date": "2025-08-27 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "dcb2a477-445f-4c30-8bfb-ee6667b5e717",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 34.79,
+    "currency": "USD",
+    "date": "2025-08-28 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "53a953cf-2e10-48bd-819c-9d081f65559e",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 30.44,
+    "currency": "USD",
+    "date": "2025-08-29 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "6c9c089c-9c05-4334-8564-ca5c525f326a",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 24.72,
+    "currency": "USD",
+    "date": "2025-08-30 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "4f77359f-2f0a-4a0b-9a91-d87156ac861b",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 18.73,
+    "currency": "USD",
+    "date": "2025-08-31 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "92a9b223-3aac-4f62-9daf-4246a76585e2",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 22.11,
+    "currency": "USD",
+    "date": "2025-09-01 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "2cdbfb28-d13e-4edc-b9f6-54c4bb9d5a59",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 28.39,
+    "currency": "USD",
+    "date": "2025-09-02 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "cb6d95f2-9404-437a-a554-c12c61a74c06",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 26.59,
+    "currency": "USD",
+    "date": "2025-09-03 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  },
+  {
+    "id": "fda3f4e6-e4fd-463a-bb49-e4e1af7119a7",
+    "resource_id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "service": "database",
+    "cost": 32.17,
+    "currency": "USD",
+    "date": "2025-09-04 17:31:58.699445",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    }
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "id": "989adc59-87f4-479e-9499-b957a7fd2fbf",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "402cc4f5-1a15-4401-b6ad-ff8045177b0d",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-523",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    },
+    "specifications": {},
+    "created_at": "2024-12-05 17:31:58.698938",
+    "updated_at": "2024-12-28 01:31:58.698938"
+  },
+  {
+    "id": "478b770d-2c1a-45b9-8318-7093a381490d",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "136b789f-69dc-4a08-b767-56a640a5c73f",
+    "resource_type": "ResourceType.NETWORK",
+    "name": "resource-722",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "admin"
+    },
+    "specifications": {},
+    "created_at": "2024-12-20 17:31:58.698961",
+    "updated_at": "2025-01-17 05:31:58.698961"
+  },
+  {
+    "id": "cc8cfe71-8543-4ac9-bbd0-6337caad1ee8",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "i-6345865a63094fb8b",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "web-server-839",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "web-app",
+      "Owner": "admin"
+    },
+    "specifications": {
+      "instance_type": "m5.large",
+      "vcpus": 16,
+      "memory_gb": 4,
+      "storage_gb": 20
+    },
+    "created_at": "2025-04-01 17:31:58.698973",
+    "updated_at": "2025-04-08 11:31:58.698973"
+  },
+  {
+    "id": "9ec9dadd-5f3a-40ff-b8c7-65859b1585e2",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "519c4360-1eb3-4e01-8921-de0a45ae70e5",
+    "resource_type": "ResourceType.NETWORK",
+    "name": "resource-384",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "john.doe"
+    },
+    "specifications": {},
+    "created_at": "2025-06-24 17:31:58.699070",
+    "updated_at": "2025-06-26 22:31:58.699070"
+  },
+  {
+    "id": "d08d71f7-2e4e-4c1d-9708-5b4bba91c4f8",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "i-7bac72395a3c48bb8",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "web-server-381",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "jane.smith"
+    },
+    "specifications": {
+      "instance_type": "m5.large",
+      "vcpus": 16,
+      "memory_gb": 4,
+      "storage_gb": 20
+    },
+    "created_at": "2025-07-06 17:31:58.699130",
+    "updated_at": "2025-07-24 04:31:58.699130"
+  },
+  {
+    "id": "17840071-2e7a-4139-a956-650fc64b3c60",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "my-bucket-940",
+    "resource_type": "ResourceType.STORAGE",
+    "name": "app-bucket-59",
+    "region": "ap-southeast-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "Owner": "admin"
+    },
+    "specifications": {
+      "storage_class": "GLACIER",
+      "versioning": false,
+      "encryption": true
+    },
+    "created_at": "2025-03-05 17:31:58.699166",
+    "updated_at": "2025-03-10 09:31:58.699166"
+  },
+  {
+    "id": "86d7d66b-f501-4a01-87e4-29f3960b7e1f",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "i-bb8eff265b6143bba",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "worker-850",
+    "region": "eu-central-1",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "api",
+      "Owner": "jane.smith"
+    },
+    "specifications": {
+      "instance_type": "t3.medium",
+      "vcpus": 8,
+      "memory_gb": 8,
+      "storage_gb": 20
+    },
+    "created_at": "2025-06-20 17:31:58.699187",
+    "updated_at": "2025-06-22 21:31:58.699187"
+  },
+  {
+    "id": "9bdf0677-9966-4445-8255-8b978ee15e5e",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "bbfa17b9-d535-45f6-b755-98c16ce27971",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "api-gateway-710",
+    "region": "sa-east-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "api",
+      "Owner": "jane.smith"
+    },
+    "specifications": {
+      "runtime": "python3.9",
+      "memory_mb": 1024,
+      "timeout_seconds": 900
+    },
+    "created_at": "2024-11-16 17:31:58.699234",
+    "updated_at": "2024-11-24 10:31:58.699234"
+  },
+  {
+    "id": "3ed2d1a5-7b75-4c1a-b437-e26429a2092a",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "cc459fa2-9806-4b0c-8c9f-c0f35c1dae6b",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "api-gateway-596",
+    "region": "ap-northeast-1",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    },
+    "specifications": {
+      "runtime": "java11",
+      "memory_mb": 256,
+      "timeout_seconds": 30
+    },
+    "created_at": "2024-11-18 17:31:58.699385",
+    "updated_at": "2024-12-06 05:31:58.699385"
+  },
+  {
+    "id": "d6aeb09b-643e-4cfd-a92a-2abefbc734b1",
+    "provider": "CloudProvider.AWS",
+    "resource_id": "db-734898c9a0aa",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "postgres-db-140",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "web-app",
+      "Owner": "john.doe"
+    },
+    "specifications": {
+      "engine": "postgres",
+      "instance_type": "db.r5.large",
+      "storage_gb": 100,
+      "multi_az": false
+    },
+    "created_at": "2025-01-16 17:31:58.699397",
+    "updated_at": "2025-01-31 21:31:58.699397"
+  }
+]

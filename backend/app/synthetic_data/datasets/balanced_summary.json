@@ -1,0 +1,17 @@
+{
+  "total_resources": 30,
+  "total_cost": 34168.96999999998,
+  "providers": [
+    "gcp",
+    "aws",
+    "azure"
+  ],
+  "resource_types": [
+    "serverless",
+    "network",
+    "database",
+    "compute",
+    "container",
+    "storage"
+  ]
+}

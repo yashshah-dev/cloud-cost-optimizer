@@ -1,0 +1,99 @@
+version: '3.8'
+
+services:
+  # Database
+  postgres:
+    image: timescale/timescaledb:latest-pg15
+    container_name: cost-optimizer-db
+    environment:
+      - POSTGRES_DB=cost_optimizer
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./infrastructure/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - cost-optimizer-network
+
+  # Redis (for caching and background jobs)
+  redis:
+    image: redis:7-alpine
+    container_name: cost-optimizer-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - cost-optimizer-network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cost-optimizer-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env.docker
+    environment:
+      - ENVIRONMENT=docker
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - ./backend:/app
+      - ~/.aws:/root/.aws:ro
+      - ~/.config/gcloud:/root/.config/gcloud:ro
+      - ./logs:/app/logs
+    networks:
+      - cost-optimizer-network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  # Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cost-optimizer-frontend
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.docker
+    depends_on:
+      - backend
+    networks:
+      - cost-optimizer-network
+
+  # Background worker (for data ingestion and optimization jobs)
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cost-optimizer-worker
+    env_file:
+      - .env.docker
+    environment:
+      - ENVIRONMENT=docker
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - ./backend:/app
+      - ~/.aws:/root/.aws:ro
+      - ~/.config/gcloud:/root/.config/gcloud:ro
+    networks:
+      - cost-optimizer-network
+    command: celery -A app.worker worker --loglevel=info
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  cost-optimizer-network:
+    driver: bridge

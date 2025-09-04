@@ -1,0 +1,542 @@
+[
+  {
+    "resource_id": "c5ed0321-839e-458f-b0fb-3f54fddd3cec",
+    "name": "low_utilization-001",
+    "resource_type": "rds",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-05-30T13:11:08.379002",
+    "updated_at": "2025-09-04T13:11:08.379009",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "0c65ff49-02e5-4dbe-8ca6-d12992f21506",
+    "name": "low_utilization-002",
+    "resource_type": "lambda",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-05-13T13:11:08.379070",
+    "updated_at": "2025-09-04T13:11:08.379072",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "6496dc60-8188-4907-8c25-eb4fa3b35566",
+    "name": "low_utilization-003",
+    "resource_type": "rds",
+    "provider": "azure",
+    "region": "West Europe",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-04-04T13:11:08.379124",
+    "updated_at": "2025-09-04T13:11:08.379126",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "6d263f66-7403-4fcd-b7e2-df510ba3faf2",
+    "name": "low_utilization-004",
+    "resource_type": "lambda",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-07-04T13:11:08.379177",
+    "updated_at": "2025-09-04T13:11:08.379178",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "ade140e1-d9cb-4920-ab84-ce4b5a141ab8",
+    "name": "low_utilization-005",
+    "resource_type": "rds",
+    "provider": "azure",
+    "region": "West Europe",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-05-10T13:11:08.379229",
+    "updated_at": "2025-09-04T13:11:08.379230",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "62235314-9433-4bb6-87f6-986a5e4f1368",
+    "name": "low_utilization-006",
+    "resource_type": "rds",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-06-27T13:11:08.379280",
+    "updated_at": "2025-09-04T13:11:08.379281",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "2626f7ee-28ee-4ef9-b1bc-73fb72fe252c",
+    "name": "low_utilization-007",
+    "resource_type": "lambda",
+    "provider": "azure",
+    "region": "West Europe",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-04-18T13:11:08.379330",
+    "updated_at": "2025-09-04T13:11:08.379332",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "2a121f66-1505-48dc-8ba3-c0156f181974",
+    "name": "low_utilization-008",
+    "resource_type": "ec2",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.large"
+    },
+    "created_at": "2025-04-25T13:11:08.379381",
+    "updated_at": "2025-09-04T13:11:08.379382",
+    "optimization_pattern": "low_utilization",
+    "avg_cpu_target": 15
+  },
+  {
+    "resource_id": "4f840a31-4f39-4ae4-82d5-825068c63893",
+    "name": "high_utilization-009",
+    "resource_type": "lambda",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.small"
+    },
+    "created_at": "2025-05-15T13:11:08.379460",
+    "updated_at": "2025-09-04T13:11:08.379461",
+    "optimization_pattern": "high_utilization",
+    "avg_cpu_target": 85
+  },
+  {
+    "resource_id": "a96b8d51-d8b3-4883-bbc0-d6745e98b3e4",
+    "name": "high_utilization-010",
+    "resource_type": "lambda",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.small"
+    },
+    "created_at": "2025-04-04T13:11:08.379514",
+    "updated_at": "2025-09-04T13:11:08.379515",
+    "optimization_pattern": "high_utilization",
+    "avg_cpu_target": 85
+  },
+  {
+    "resource_id": "2dbe3897-8269-4cf7-a9fc-b0d65713db6f",
+    "name": "high_utilization-011",
+    "resource_type": "lambda",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.small"
+    },
+    "created_at": "2025-06-29T13:11:08.379562",
+    "updated_at": "2025-09-04T13:11:08.379563",
+    "optimization_pattern": "high_utilization",
+    "avg_cpu_target": 85
+  },
+  {
+    "resource_id": "82a6617d-0255-4b40-a3ed-e5389ad50dd9",
+    "name": "consistent_usage-012",
+    "resource_type": "rds",
+    "provider": "aws",
+    "region": "us-west-2",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "m5.large"
+    },
+    "created_at": "2025-05-04T13:11:08.379608",
+    "updated_at": "2025-09-04T13:11:08.379609",
+    "optimization_pattern": "consistent_usage",
+    "avg_cpu_target": 60
+  },
+  {
+    "resource_id": "b95905b5-feaa-45cc-b0c0-c3769e8ddb37",
+    "name": "consistent_usage-013",
+    "resource_type": "lambda",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "m5.large"
+    },
+    "created_at": "2025-03-20T13:11:08.379654",
+    "updated_at": "2025-09-04T13:11:08.379655",
+    "optimization_pattern": "consistent_usage",
+    "avg_cpu_target": 60
+  },
+  {
+    "resource_id": "1e460a6d-ea1d-4678-9185-a39d59bc0c00",
+    "name": "consistent_usage-014",
+    "resource_type": "lambda",
+    "provider": "aws",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "m5.large"
+    },
+    "created_at": "2025-06-07T13:11:08.379700",
+    "updated_at": "2025-09-04T13:11:08.379701",
+    "optimization_pattern": "consistent_usage",
+    "avg_cpu_target": 60
+  },
+  {
+    "resource_id": "71a7ea2b-0e06-4c9f-b3db-84b678f76a2d",
+    "name": "consistent_usage-015",
+    "resource_type": "ec2",
+    "provider": "gcp",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "m5.large"
+    },
+    "created_at": "2025-03-25T13:11:08.379751",
+    "updated_at": "2025-09-04T13:11:08.379753",
+    "optimization_pattern": "consistent_usage",
+    "avg_cpu_target": 60
+  },
+  {
+    "resource_id": "6b6a7062-4097-4d9a-b16f-e280802aacc8",
+    "name": "consistent_usage-016",
+    "resource_type": "ec2",
+    "provider": "aws",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "m5.large"
+    },
+    "created_at": "2025-03-10T13:11:08.379809",
+    "updated_at": "2025-09-04T13:11:08.379810",
+    "optimization_pattern": "consistent_usage",
+    "avg_cpu_target": 60
+  },
+  {
+    "resource_id": "7e8e440e-89b4-4944-a3a1-e8a7d0216989",
+    "name": "spot_candidate-017",
+    "resource_type": "ec2",
+    "provider": "aws",
+    "region": "us-east-1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "c5.large"
+    },
+    "created_at": "2025-05-22T13:11:08.379854",
+    "updated_at": "2025-09-04T13:11:08.379855",
+    "optimization_pattern": "spot_candidate",
+    "avg_cpu_target": 45
+  },
+  {
+    "resource_id": "f3c7570f-4e53-4960-b0ab-262644cdccc2",
+    "name": "spot_candidate-018",
+    "resource_type": "ec2",
+    "provider": "azure",
+    "region": "East US",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "c5.large"
+    },
+    "created_at": "2025-05-03T13:11:08.379900",
+    "updated_at": "2025-09-04T13:11:08.379901",
+    "optimization_pattern": "spot_candidate",
+    "avg_cpu_target": 45
+  },
+  {
+    "resource_id": "399573fa-525c-461d-beaa-814abdf6653f",
+    "name": "spot_candidate-019",
+    "resource_type": "ec2",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "c5.large"
+    },
+    "created_at": "2025-04-12T13:11:08.379944",
+    "updated_at": "2025-09-04T13:11:08.379946",
+    "optimization_pattern": "spot_candidate",
+    "avg_cpu_target": 45
+  },
+  {
+    "resource_id": "63e9eef6-1437-4b5a-88fa-8d71e2bcce0e",
+    "name": "spot_candidate-020",
+    "resource_type": "ec2",
+    "provider": "azure",
+    "region": "East US",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "c5.large"
+    },
+    "created_at": "2025-03-12T13:11:08.379989",
+    "updated_at": "2025-09-04T13:11:08.379991",
+    "optimization_pattern": "spot_candidate",
+    "avg_cpu_target": 45
+  },
+  {
+    "resource_id": "e00d83a5-b924-4a42-a8c1-60d39f95a4d0",
+    "name": "storage_waste-021",
+    "resource_type": "storage",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-06-07T13:11:08.380035",
+    "updated_at": "2025-09-04T13:11:08.380036",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "cf100336-6b6b-4d30-9ce2-767a3b94f902",
+    "name": "storage_waste-022",
+    "resource_type": "storage",
+    "provider": "azure",
+    "region": "East US",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-04-20T13:11:08.380079",
+    "updated_at": "2025-09-04T13:11:08.380081",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "52b08043-f05e-424b-947b-22795c13310e",
+    "name": "storage_waste-023",
+    "resource_type": "storage",
+    "provider": "aws",
+    "region": "eu-west-1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-06-28T13:11:08.380124",
+    "updated_at": "2025-09-04T13:11:08.380125",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "df1bc813-a5ad-4254-b609-541b9d40f0eb",
+    "name": "storage_waste-024",
+    "resource_type": "storage",
+    "provider": "azure",
+    "region": "West Europe",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-06-30T13:11:08.380169",
+    "updated_at": "2025-09-04T13:11:08.380170",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "089c8334-86c9-493d-8257-c68a8c82fd10",
+    "name": "storage_waste-025",
+    "resource_type": "storage",
+    "provider": "gcp",
+    "region": "us-central1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-05-23T13:11:08.380214",
+    "updated_at": "2025-09-04T13:11:08.380215",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "1c5efb7e-d0fd-4bfe-b251-ebfc95ef3168",
+    "name": "storage_waste-026",
+    "resource_type": "storage",
+    "provider": "azure",
+    "region": "East US",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "storage"
+    },
+    "created_at": "2025-03-09T13:11:08.380259",
+    "updated_at": "2025-09-04T13:11:08.380260",
+    "optimization_pattern": "storage_waste",
+    "avg_cpu_target": 5
+  },
+  {
+    "resource_id": "fdc00df6-5172-4129-b19b-86ee41469e27",
+    "name": "unused-027",
+    "resource_type": "ec2",
+    "provider": "gcp",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.medium"
+    },
+    "created_at": "2025-07-05T13:11:08.380304",
+    "updated_at": "2025-09-04T13:11:08.380305",
+    "optimization_pattern": "unused",
+    "avg_cpu_target": 3
+  },
+  {
+    "resource_id": "6c8b702d-d22a-44d8-b3ff-2403aa2dabdf",
+    "name": "unused-028",
+    "resource_type": "ec2",
+    "provider": "gcp",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.medium"
+    },
+    "created_at": "2025-05-13T13:11:08.380350",
+    "updated_at": "2025-09-04T13:11:08.380351",
+    "optimization_pattern": "unused",
+    "avg_cpu_target": 3
+  },
+  {
+    "resource_id": "78e7b238-be15-4d1b-872d-85ecae43e349",
+    "name": "unused-029",
+    "resource_type": "ec2",
+    "provider": "azure",
+    "region": "West Europe",
+    "tags": {
+      "Environment": "dev",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.medium"
+    },
+    "created_at": "2025-06-02T13:11:08.380397",
+    "updated_at": "2025-09-04T13:11:08.380398",
+    "optimization_pattern": "unused",
+    "avg_cpu_target": 3
+  },
+  {
+    "resource_id": "d8ea080b-5ea4-4d01-b996-8bedf4d05768",
+    "name": "unused-030",
+    "resource_type": "ec2",
+    "provider": "gcp",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "prod",
+      "Team": "engineering"
+    },
+    "specifications": {
+      "instance_type": "t3.medium"
+    },
+    "created_at": "2025-03-15T13:11:08.380442",
+    "updated_at": "2025-09-04T13:11:08.380444",
+    "optimization_pattern": "unused",
+    "avg_cpu_target": 3
+  }
+]

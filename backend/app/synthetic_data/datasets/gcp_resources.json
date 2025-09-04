@@ -1,0 +1,360 @@
+[
+  {
+    "id": "508bdfe5-c01b-47ff-93e7-c69a03491e3c",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "my-project.appspot.com/503f576702fb44bc",
+    "resource_type": "ResourceType.STORAGE",
+    "name": "filestore-167",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "data",
+      "Project": "api",
+      "created-by": "console"
+    },
+    "specifications": {
+      "storage_class": "GLACIER",
+      "versioning": false,
+      "encryption": true
+    },
+    "created_at": "2025-05-24 17:31:58.722618",
+    "updated_at": "2025-06-01 14:31:58.722618"
+  },
+  {
+    "id": "065f514a-631e-4932-833d-e8b17b6fcb5e",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "projects/my-project/zones/us-central1-a/instances/6b92e7bc",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "gke-node-969",
+    "region": "asia-southeast1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "created-by": "terraform"
+    },
+    "specifications": {
+      "instance_type": "t3.large",
+      "vcpus": 16,
+      "memory_gb": 16,
+      "storage_gb": 100
+    },
+    "created_at": "2025-05-21 17:31:58.722725",
+    "updated_at": "2025-06-08 09:31:58.722725"
+  },
+  {
+    "id": "c2922415-07d7-492c-9a71-3185f067f1b7",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "3e0a0257-0d4c-409b-b253-4f745bba6a21",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-733",
+    "region": "australia-southeast1",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "api",
+      "created-by": "console"
+    },
+    "specifications": {},
+    "created_at": "2024-09-05 17:31:58.722777",
+    "updated_at": "2024-09-06 14:31:58.722777"
+  },
+  {
+    "id": "1c57567e-a14d-4b18-9321-12539eaac3de",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "9e61162f-e5cc-49ab-84c7-613bcf11090d",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "cloud-sql-561",
+    "region": "us-west1",
+    "tags": {
+      "Environment": "development",
+      "Team": "backend",
+      "Project": "ml-pipeline",
+      "created-by": "gcloud"
+    },
+    "specifications": {
+      "engine": "mysql",
+      "instance_type": "db.r5.large",
+      "storage_gb": 500,
+      "multi_az": true
+    },
+    "created_at": "2025-04-22 17:31:58.722802",
+    "updated_at": "2025-04-27 05:31:58.722802"
+  },
+  {
+    "id": "3829baf0-224f-4aec-b972-88bce1bd9ce1",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "fef8eda8-731f-4a5d-9db1-893323ebe68c",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "bigtable-345",
+    "region": "asia-southeast1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "security",
+      "Project": "ml-pipeline",
+      "created-by": "console"
+    },
+    "specifications": {
+      "engine": "mongodb",
+      "instance_type": "db.t3.medium",
+      "storage_gb": 1000,
+      "multi_az": true
+    },
+    "created_at": "2025-01-19 17:31:58.722862",
+    "updated_at": "2025-02-16 16:31:58.722862"
+  },
+  {
+    "id": "386a94a6-62d2-4db8-954a-a2f345d77395",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "49c0379f-a0ed-4542-b3cb-c36d629f8079",
+    "resource_type": "ResourceType.NETWORK",
+    "name": "resource-915",
+    "region": "australia-southeast1",
+    "tags": {
+      "Environment": "production",
+      "Team": "backend",
+      "Project": "web-app",
+      "created-by": "gcloud"
+    },
+    "specifications": {},
+    "created_at": "2024-10-26 17:31:58.722886",
+    "updated_at": "2024-11-25 09:31:58.722886"
+  },
+  {
+    "id": "fb456906-c54b-4579-b4a7-12d6b68b5094",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "351b15f0-db83-4036-83ed-832fe620c0ac",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "bigtable-381",
+    "region": "australia-southeast1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "infra",
+      "Project": "api",
+      "created-by": "gcloud"
+    },
+    "specifications": {
+      "engine": "mongodb",
+      "instance_type": "db.t3.medium",
+      "storage_gb": 100,
+      "multi_az": false
+    },
+    "created_at": "2025-06-05 17:31:58.722944",
+    "updated_at": "2025-06-25 17:31:58.722944"
+  },
+  {
+    "id": "08c5e090-3487-4a27-a181-ae7cfd064d05",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "projects/my-project/zones/us-central1-a/instances/97dc99e4",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "gce-instance-665",
+    "region": "asia-southeast1",
+    "tags": {
+      "Environment": "development",
+      "Team": "frontend",
+      "Project": "api",
+      "created-by": "terraform"
+    },
+    "specifications": {
+      "instance_type": "t3.medium",
+      "vcpus": 8,
+      "memory_gb": 8,
+      "storage_gb": 20
+    },
+    "created_at": "2025-07-01 17:31:58.722993",
+    "updated_at": "2025-07-07 16:31:58.722993"
+  },
+  {
+    "id": "24e016df-b2bd-46c1-9500-181cc141bcb7",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "49f51184-55eb-4090-a208-ba88b5677bf8",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "cloud-run-367",
+    "region": "europe-west1",
+    "tags": {
+      "Environment": "test",
+      "Team": "data",
+      "Project": "monitoring",
+      "created-by": "gcloud"
+    },
+    "specifications": {
+      "runtime": "node14",
+      "memory_mb": 512,
+      "timeout_seconds": 900
+    },
+    "created_at": "2025-04-22 17:31:58.723029",
+    "updated_at": "2025-05-14 18:31:58.723029"
+  },
+  {
+    "id": "f6db1fd6-e464-4156-bfae-e7d78fa6b452",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "642bbcad-ec82-4702-a35c-9618ecfd4ffc",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "bigtable-189",
+    "region": "australia-southeast1",
+    "tags": {
+      "Environment": "production",
+      "Team": "infra",
+      "Project": "api",
+      "created-by": "console"
+    },
+    "specifications": {
+      "engine": "mongodb",
+      "instance_type": "db.t3.medium",
+      "storage_gb": 100,
+      "multi_az": true
+    },
+    "created_at": "2025-01-18 17:31:58.723065",
+    "updated_at": "2025-02-15 02:31:58.723065"
+  },
+  {
+    "id": "e9eccba7-1e64-4bfe-895c-a342da8f176c",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "52b76a2e-dfa8-4b66-822c-988d5ada3dfe",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "bigtable-858",
+    "region": "us-east1",
+    "tags": {
+      "Environment": "test",
+      "Team": "backend",
+      "Project": "analytics",
+      "created-by": "terraform"
+    },
+    "specifications": {
+      "engine": "mongodb",
+      "instance_type": "db.t3.medium",
+      "storage_gb": 100,
+      "multi_az": false
+    },
+    "created_at": "2024-12-23 17:31:58.723114",
+    "updated_at": "2025-01-10 14:31:58.723114"
+  },
+  {
+    "id": "e061ae70-1ae2-4d15-9337-2217ec2798f0",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "projects/my-project/zones/us-central1-a/instances/0c4bf43d",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "cloud-run-775",
+    "region": "asia-southeast1",
+    "tags": {
+      "Environment": "development",
+      "Team": "backend",
+      "Project": "ml-pipeline",
+      "created-by": "console"
+    },
+    "specifications": {
+      "instance_type": "m5.large",
+      "vcpus": 2,
+      "memory_gb": 8,
+      "storage_gb": 20
+    },
+    "created_at": "2025-07-20 17:31:58.723127",
+    "updated_at": "2025-08-19 04:31:58.723127"
+  },
+  {
+    "id": "266ce919-f314-4d9c-bccc-4c187fb6040c",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "my-project.appspot.com/13dca3a3f6e84f96",
+    "resource_type": "ResourceType.STORAGE",
+    "name": "filestore-992",
+    "region": "us-east1",
+    "tags": {
+      "Environment": "development",
+      "Team": "backend",
+      "Project": "monitoring",
+      "created-by": "terraform"
+    },
+    "specifications": {
+      "storage_class": "STANDARD",
+      "versioning": false,
+      "encryption": true
+    },
+    "created_at": "2025-02-24 17:31:58.723140",
+    "updated_at": "2025-03-25 05:31:58.723140"
+  },
+  {
+    "id": "9e00c219-5b98-4490-867d-97f2312e4c89",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "927540ee-616a-4f97-beaf-d70945fa4df6",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "memorystore-238",
+    "region": "us-west1",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "analytics",
+      "created-by": "gcloud"
+    },
+    "specifications": {
+      "engine": "postgres",
+      "instance_type": "db.r5.large",
+      "storage_gb": 500,
+      "multi_az": false
+    },
+    "created_at": "2024-10-04 17:31:58.723200",
+    "updated_at": "2024-10-28 14:31:58.723200"
+  },
+  {
+    "id": "b60b5be6-3f76-4187-8ec7-fbe6a1247a70",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "eff02ced-6b29-439b-ad7f-bf0b34d55586",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "cloud-function-845",
+    "region": "asia-southeast1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "created-by": "console"
+    },
+    "specifications": {
+      "runtime": "python3.9",
+      "memory_mb": 256,
+      "timeout_seconds": 30
+    },
+    "created_at": "2025-03-26 17:31:58.723213",
+    "updated_at": "2025-04-09 04:31:58.723213"
+  },
+  {
+    "id": "187eb37f-53d8-4b13-9c00-b78da8d69516",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "my-project.appspot.com/ed0d9b24b870494e",
+    "resource_type": "ResourceType.STORAGE",
+    "name": "gcs-bucket-547",
+    "region": "europe-north1",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "web-app",
+      "created-by": "gcloud"
+    },
+    "specifications": {
+      "storage_class": "STANDARD_IA",
+      "versioning": false,
+      "encryption": true
+    },
+    "created_at": "2025-04-04 17:31:58.723226",
+    "updated_at": "2025-04-11 08:31:58.723226"
+  },
+  {
+    "id": "194018c9-6393-4481-9ac1-c372f085f7f5",
+    "provider": "CloudProvider.GCP",
+    "resource_id": "5ecbf21e-e386-4db7-bc1c-5d6c558bb34b",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "cloud-function-332",
+    "region": "europe-north1",
+    "tags": {
+      "Environment": "development",
+      "Team": "backend",
+      "Project": "monitoring",
+      "created-by": "console"
+    },
+    "specifications": {
+      "runtime": "java11",
+      "memory_mb": 128,
+      "timeout_seconds": 30
+    },
+    "created_at": "2024-10-25 17:31:58.723263",
+    "updated_at": "2024-11-16 19:31:58.723263"
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "id": "fa86dda9-cc4b-4de5-9201-436d911930f0",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "6f0bbfa1-1e90-4455-b2a7-35d410058c35",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "function-app-526",
+    "region": "West US 2",
+    "tags": {
+      "Environment": "test",
+      "Team": "security",
+      "Project": "api",
+      "createdBy": "terraform"
+    },
+    "specifications": {
+      "runtime": "java11",
+      "memory_mb": 128,
+      "timeout_seconds": 300
+    },
+    "created_at": "2025-01-24 17:31:58.762050",
+    "updated_at": "2025-01-26 23:31:58.762050"
+  },
+  {
+    "id": "bc290fa0-c445-443c-85a3-51422c3a2ed4",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "24e21eb6-40ab-4169-b459-cbf4215624a0",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-65",
+    "region": "Brazil South",
+    "tags": {
+      "Environment": "development",
+      "Team": "data",
+      "Project": "analytics",
+      "createdBy": "cli"
+    },
+    "specifications": {},
+    "created_at": "2025-05-18 17:31:58.762083",
+    "updated_at": "2025-06-15 21:31:58.762083"
+  },
+  {
+    "id": "4fae7db7-bb04-4e60-8058-63cffc326653",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "/subscriptions/2ca1972e-0b7f-4216-9065-dffbfbce6e15/resourceGroups/myRG/providers/Microsoft.Compute/virtualMachines/vm14",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "vm-967",
+    "region": "Brazil South",
+    "tags": {
+      "Environment": "staging",
+      "Team": "data",
+      "Project": "ml-pipeline",
+      "createdBy": "terraform"
+    },
+    "specifications": {
+      "instance_type": "c5.xlarge",
+      "vcpus": 2,
+      "memory_gb": 16,
+      "storage_gb": 200
+    },
+    "created_at": "2024-12-09 17:31:58.762114",
+    "updated_at": "2024-12-13 03:31:58.762114"
+  },
+  {
+    "id": "326c523a-a0fe-4d27-b0bf-be1c4677a665",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "f1176195-460d-4d38-8f37-f4b1697aaa75",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "function-app-299",
+    "region": "Canada Central",
+    "tags": {
+      "Environment": "staging",
+      "Team": "security",
+      "Project": "api",
+      "createdBy": "cli"
+    },
+    "specifications": {
+      "runtime": "python3.9",
+      "memory_mb": 512,
+      "timeout_seconds": 900
+    },
+    "created_at": "2025-06-22 17:31:58.762129",
+    "updated_at": "2025-06-26 06:31:58.762129"
+  },
+  {
+    "id": "db5be28a-c582-46d2-8c5d-eea9b439b437",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "aa5405f0-3728-4f02-aae4-5fa9f1942452",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "function-app-523",
+    "region": "Germany West Central",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "ml-pipeline",
+      "createdBy": "cli"
+    },
+    "specifications": {
+      "runtime": "java11",
+      "memory_mb": 256,
+      "timeout_seconds": 60
+    },
+    "created_at": "2024-09-24 17:31:58.762155",
+    "updated_at": "2024-10-14 23:31:58.762155"
+  },
+  {
+    "id": "a0d64a2f-d3cf-47d4-9e2f-48954fb2f628",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "8ccc6b5b-3712-400e-9207-9cdc025aa88e",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "function-app-45",
+    "region": "Brazil South",
+    "tags": {
+      "Environment": "staging",
+      "Team": "data",
+      "Project": "analytics",
+      "createdBy": "portal"
+    },
+    "specifications": {
+      "runtime": "python3.9",
+      "memory_mb": 256,
+      "timeout_seconds": 900
+    },
+    "created_at": "2025-02-18 17:31:58.762182",
+    "updated_at": "2025-02-28 09:31:58.762182"
+  },
+  {
+    "id": "6c8d5405-729b-4c8b-a1d8-239a37c5904b",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "214ad8c4-d565-4ff3-8fd5-63a9a9d316b0",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-895",
+    "region": "Southeast Asia",
+    "tags": {
+      "Environment": "production",
+      "Team": "data",
+      "Project": "monitoring",
+      "createdBy": "portal"
+    },
+    "specifications": {},
+    "created_at": "2024-11-29 17:31:58.762290",
+    "updated_at": "2024-12-15 02:31:58.762290"
+  },
+  {
+    "id": "ed549b61-52f1-4a93-85b8-e8bfba6d8e0d",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "3c0acfb2-d136-4534-a168-c9f243826f28",
+    "resource_type": "ResourceType.DATABASE",
+    "name": "sql-server-640",
+    "region": "North Europe",
+    "tags": {
+      "Environment": "development",
+      "Team": "security",
+      "Project": "web-app",
+      "createdBy": "terraform"
+    },
+    "specifications": {
+      "engine": "postgres",
+      "instance_type": "db.r5.large",
+      "storage_gb": 500,
+      "multi_az": true
+    },
+    "created_at": "2025-07-27 17:31:58.762332",
+    "updated_at": "2025-07-29 00:31:58.762332"
+  },
+  {
+    "id": "c2b5d5c4-0f48-4856-9f6d-d40271ffc37f",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "69120002-bd9b-4808-9acb-47e8dc9ee3d6",
+    "resource_type": "ResourceType.NETWORK",
+    "name": "resource-590",
+    "region": "North Europe",
+    "tags": {
+      "Environment": "staging",
+      "Team": "security",
+      "Project": "ml-pipeline",
+      "createdBy": "cli"
+    },
+    "specifications": {},
+    "created_at": "2025-01-18 17:31:58.762359",
+    "updated_at": "2025-02-07 12:31:58.762359"
+  },
+  {
+    "id": "cbb2aa68-bba3-433d-af51-e1ecb90dcd63",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "/subscriptions/6d163300-505a-4869-94f4-511aa9e73067/resourceGroups/myRG/providers/Microsoft.Compute/virtualMachines/vm27",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "aks-node-52",
+    "region": "Germany West Central",
+    "tags": {
+      "Environment": "production",
+      "Team": "backend",
+      "Project": "api",
+      "createdBy": "portal"
+    },
+    "specifications": {
+      "instance_type": "t3.large",
+      "vcpus": 2,
+      "memory_gb": 32,
+      "storage_gb": 100
+    },
+    "created_at": "2024-10-19 17:31:58.762470",
+    "updated_at": "2024-11-08 21:31:58.762470"
+  },
+  {
+    "id": "c6e2cc99-04d7-47ec-bf8b-c5b78b80225c",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "887e5d1b-b9d1-4a88-b44a-08faf9d2d6da",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-205",
+    "region": "West US 2",
+    "tags": {
+      "Environment": "staging",
+      "Team": "backend",
+      "Project": "ml-pipeline",
+      "createdBy": "cli"
+    },
+    "specifications": {},
+    "created_at": "2025-01-10 17:31:58.762528",
+    "updated_at": "2025-01-11 08:31:58.762528"
+  },
+  {
+    "id": "50c56911-b760-440c-b0e6-cbf89f17d89a",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "/subscriptions/264f1636-b55d-408d-a6ee-ed976ec3bc12/resourceGroups/myRG/providers/Microsoft.Compute/virtualMachines/vm203",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "aks-node-274",
+    "region": "Canada Central",
+    "tags": {
+      "Environment": "staging",
+      "Team": "data",
+      "Project": "api",
+      "createdBy": "portal"
+    },
+    "specifications": {
+      "instance_type": "m5.large",
+      "vcpus": 2,
+      "memory_gb": 64,
+      "storage_gb": 50
+    },
+    "created_at": "2025-07-13 17:31:58.762544",
+    "updated_at": "2025-07-31 21:31:58.762544"
+  },
+  {
+    "id": "a0d26d72-82ed-47ff-9bda-2dfaf95e6993",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "3f4eace9-c586-448a-835e-aed2d5a3e3b7",
+    "resource_type": "ResourceType.NETWORK",
+    "name": "resource-867",
+    "region": "Canada Central",
+    "tags": {
+      "Environment": "staging",
+      "Team": "infra",
+      "Project": "ml-pipeline",
+      "createdBy": "cli"
+    },
+    "specifications": {},
+    "created_at": "2025-03-12 17:31:58.762635",
+    "updated_at": "2025-03-22 16:31:58.762635"
+  },
+  {
+    "id": "60a86436-3872-48c7-85b2-e22a62bd07aa",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "9c286e11-d251-4421-8313-7b9750b8592f",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-616",
+    "region": "Brazil South",
+    "tags": {
+      "Environment": "development",
+      "Team": "backend",
+      "Project": "web-app",
+      "createdBy": "portal"
+    },
+    "specifications": {},
+    "created_at": "2025-01-16 17:31:58.762648",
+    "updated_at": "2025-01-30 12:31:58.762648"
+  },
+  {
+    "id": "411e1621-7201-41e8-83a1-d9913ef712b9",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "5250eee8-1619-4c2b-8aff-ecc724a6c27a",
+    "resource_type": "ResourceType.SERVERLESS",
+    "name": "function-app-377",
+    "region": "North Europe",
+    "tags": {
+      "Environment": "production",
+      "Team": "security",
+      "Project": "analytics",
+      "createdBy": "cli"
+    },
+    "specifications": {
+      "runtime": "python3.9",
+      "memory_mb": 512,
+      "timeout_seconds": 30
+    },
+    "created_at": "2024-09-26 17:31:58.762680",
+    "updated_at": "2024-10-24 00:31:58.762680"
+  },
+  {
+    "id": "472eb358-a9ee-438d-85f8-be21aab04e58",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "/subscriptions/8c79b81f-cdf1-437f-a0f6-f845c1d3d8ce/resourceGroups/myRG/providers/Microsoft.Compute/virtualMachines/vm146",
+    "resource_type": "ResourceType.COMPUTE_INSTANCE",
+    "name": "vm-848",
+    "region": "Germany West Central",
+    "tags": {
+      "Environment": "test",
+      "Team": "frontend",
+      "Project": "ml-pipeline",
+      "createdBy": "portal"
+    },
+    "specifications": {
+      "instance_type": "m5.large",
+      "vcpus": 16,
+      "memory_gb": 16,
+      "storage_gb": 20
+    },
+    "created_at": "2025-01-15 17:31:58.762712",
+    "updated_at": "2025-02-01 07:31:58.762712"
+  },
+  {
+    "id": "48982299-e74d-4b97-a326-f5bf14b6cf66",
+    "provider": "CloudProvider.AZURE",
+    "resource_id": "5c764810-73c7-42e9-8208-92643caefa22",
+    "resource_type": "ResourceType.CONTAINER",
+    "name": "resource-445",
+    "region": "Germany West Central",
+    "tags": {
+      "Environment": "production",
+      "Team": "frontend",
+      "Project": "ml-pipeline",
+      "createdBy": "terraform"
+    },
+    "specifications": {},
+    "created_at": "2025-06-21 17:31:58.762747",
+    "updated_at": "2025-07-18 22:31:58.762747"
+  }
+]
