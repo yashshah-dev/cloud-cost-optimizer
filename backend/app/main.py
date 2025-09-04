@@ -151,42 +151,52 @@ async def get_optimizations(
         for i, rec in enumerate(recommendations):
             logger.info(f"Processing recommendation {i+1}/{len(recommendations)}: {rec.id}")
             
-            # Get resource details
-            resource_query = select(CloudResource).where(CloudResource.id == rec.resource_id)
-            resource_result = await db.execute(resource_query)
-            resource = resource_result.scalar_one_or_none()
-            
-            resource_response = None
-            if resource:
-                resource_response = CloudResourceResponse(
-                    id=str(resource.id),
-                    provider=resource.provider,
-                    resource_id=resource.resource_id,
-                    resource_type=resource.resource_type,
-                    name=resource.name,
-                    region=resource.region,
-                    tags=resource.tags or {},
-                    specifications=resource.specifications or {},
-                    monthly_cost=None,  # Will be calculated from cost_entries if needed
-                    created_at=resource.created_at,
-                    updated_at=resource.updated_at
+            try:
+                # Get resource details
+                resource_query = select(CloudResource).where(CloudResource.id == rec.resource_id)
+                resource_result = await db.execute(resource_query)
+                resource = resource_result.scalar_one_or_none()
+                
+                resource_response = None
+                if resource:
+                    resource_response = CloudResourceResponse(
+                        id=str(resource.id),
+                        provider=CloudProvider(resource.provider),
+                        resource_id=resource.resource_id,
+                        resource_type=ResourceType(resource.resource_type),
+                        name=resource.name,
+                        region=resource.region,
+                        tags=resource.tags or {},
+                        specifications=resource.specifications or {},
+                        monthly_cost=None,  # Will be calculated from cost_entries if needed
+                        created_at=resource.created_at,
+                        updated_at=resource.updated_at
+                    )
+                
+                recommendation_response = OptimizationRecommendationResponse(
+                    id=str(rec.id),
+                    resource_id=str(rec.resource_id),
+                    resource=resource_response,
+                    type=rec.type,
+                    title=rec.title,
+                    description=rec.description,
+                    potential_savings=rec.potential_savings,
+                    confidence_score=rec.confidence_score,
+                    risk_level=rec.risk_level,
+                    status=rec.status,
+                    recommendation_data=rec.recommendation_data or {},
+                    created_at=rec.created_at,
+                    expires_at=rec.expires_at
                 )
-            
-            recommendation_responses.append(OptimizationRecommendationResponse(
-                id=str(rec.id),
-                resource_id=str(rec.resource_id),
-                resource=resource_response,
-                type=rec.type,
-                title=rec.title,
-                description=rec.description,
-                potential_savings=rec.potential_savings,
-                confidence_score=rec.confidence_score,
-                risk_level=rec.risk_level,
-                status=rec.status,
-                recommendation_data=rec.recommendation_data or {},
-                created_at=rec.created_at,
-                expires_at=rec.expires_at
-            ))
+                
+                recommendation_responses.append(recommendation_response)
+                logger.info(f"Successfully processed recommendation {i+1}")
+                
+            except Exception as rec_error:
+                logger.error(f"Error processing recommendation {i+1} (ID: {rec.id}): {rec_error}")
+                logger.error(f"Recommendation data: risk_level={rec.risk_level}, status={rec.status}, potential_savings={rec.potential_savings}")
+                # Continue processing other recommendations instead of failing completely
+                continue
         
         # Calculate summaries
         total_savings = sum(rec.potential_savings for rec in recommendations)
