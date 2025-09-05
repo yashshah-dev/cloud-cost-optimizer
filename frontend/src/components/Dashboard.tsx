@@ -27,7 +27,6 @@ interface OptimizationRecommendation {
   implementation_complexity?: string
   estimated_effort_hours?: number
   requires_downtime?: boolean
-  status?: 'pending' | 'approved' | 'rejected' | 'implemented'
   created_at?: string
 }
 
@@ -645,7 +644,6 @@ const OptimizationQueue: React.FC<{
     risk_level: '',
     type: '',
     priority_level: '',
-    status: '',
     min_savings: '',
     search: ''
   })
@@ -659,7 +657,6 @@ const OptimizationQueue: React.FC<{
       if (filters.risk_level && rec.risk_level !== filters.risk_level) return false
       if (filters.type && rec.type !== filters.type) return false
       if (filters.priority_level && rec.priority_level !== filters.priority_level) return false
-      if (filters.status && rec.status !== filters.status) return false
       if (filters.min_savings && rec.potential_savings < parseFloat(filters.min_savings)) return false
       if (filters.search) {
         const searchTerm = filters.search.toLowerCase()
@@ -717,15 +714,6 @@ const OptimizationQueue: React.FC<{
       case 'medium': return 'bg-yellow-100 text-yellow-800'
       case 'low': return 'bg-green-100 text-green-800'
       default: return 'bg-gray-100 text-gray-800'
-    }
-  }
-
-  const getStatusIcon = (status?: string) => {
-    switch (status) {
-      case 'approved': return <CheckCircle className="h-4 w-4 text-green-500" />
-      case 'rejected': return <XCircle className="h-4 w-4 text-red-500" />
-      case 'implemented': return <CheckCircle className="h-4 w-4 text-blue-500" />
-      default: return <Clock className="h-4 w-4 text-gray-400" />
     }
   }
 
@@ -841,9 +829,6 @@ const OptimizationQueue: React.FC<{
                   Confidence
                 </th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Status
-                </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Actions
                 </th>
               </tr>
@@ -884,17 +869,9 @@ const OptimizationQueue: React.FC<{
                       <span className="text-sm text-gray-900">{Math.round(rec.confidence_score * 100)}%</span>
                     </div>
                   </td>
-                  <td className="px-6 py-4 whitespace-nowrap">
-                    <div className="flex items-center">
-                      {getStatusIcon(rec.status)}
-                      <span className="ml-2 text-sm text-gray-900 capitalize">{rec.status || 'pending'}</span>
-                    </div>
-                  </td>
                   <td className="px-6 py-4 whitespace-nowrap text-sm font-medium">
                     <div className="flex space-x-2">
-                      <button className="text-indigo-600 hover:text-indigo-900">Approve</button>
-                      <button className="text-red-600 hover:text-red-900">Reject</button>
-                      <button className="text-gray-600 hover:text-gray-900">Details</button>
+                      <button className="text-indigo-600 hover:text-indigo-900">Details</button>
                       {onExplainWithAI && (
                         <button 
                           onClick={() => onExplainWithAI(rec)}
