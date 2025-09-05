@@ -59,19 +59,19 @@ graph TB
     J --> K
     J --> L
     
-    style A fill:#e1f5fe
-    style B fill:#e1f5fe  
-    style C fill:#e1f5fe
-    style D fill:#f3e5f5
-    style E fill:#e8f5e8
-    style F fill:#e8f5e8
-    style G fill:#e8f5e8
-    style H fill:#e8f5e8
-    style I fill:#e8f5e8
-    style J fill:#e8f5e8
-    style K fill:#fff3e0
-    style L fill:#fff3e0
-    style M fill:#fff3e0
+    style A fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#000
+    style B fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#000
+    style C fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#000
+    style D fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style E fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style F fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style G fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style H fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style I fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style J fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#000
+    style K fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style L fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style M fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
 ```
 
 ## 🚀 Core Components
@@ -117,7 +117,7 @@ graph LR
         A["💰 Monthly Cost: $45,000<br/>⏰ Manual Analysis: 40 hours/month<br/>🎯 Optimization Rate: 20% opportunities<br/>⚠️ Implementation Errors: 15% failure rate<br/>📈 Time to Value: 3-4 weeks"]
     end
     
-    style A fill:#ffebee,stroke:#f44336,stroke-width:2px
+    style A fill:#F44336,stroke:#D32F2F,stroke-width:3px,color:#FFF
 ```
 
 **After Platform Implementation:**
@@ -128,7 +128,7 @@ graph LR
         B["💰 Monthly Cost: $31,500 (30% reduction)<br/>⏰ Analysis Time: 2 hours/month (automated)<br/>🎯 Optimization Rate: 85% opportunities<br/>⚠️ Implementation Errors: 2% failure rate<br/>📈 Time to Value: 2-3 days"]
     end
     
-    style B fill:#e8f5e8,stroke:#4caf50,stroke-width:2px
+    style B fill:#4CAF50,stroke:#388E3C,stroke-width:3px,color:#FFF
 ```
 
 **Transformation Overview:**
@@ -154,11 +154,11 @@ graph LR
     B2 --> B3
     B3 --> C1
     
-    style A1 fill:#ffebee
-    style B1 fill:#e3f2fd
-    style B2 fill:#e3f2fd
-    style B3 fill:#e3f2fd
-    style C1 fill:#e8f5e8
+    style A1 fill:#F44336,stroke:#D32F2F,stroke-width:2px,color:#FFF
+    style B1 fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style B2 fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style B3 fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style C1 fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
 ```
 
 **Optimization Results:**
@@ -192,14 +192,14 @@ graph TD
     F --> G
     F --> H
     
-    style A fill:#e3f2fd
-    style B fill:#e3f2fd
-    style C fill:#e3f2fd
-    style D fill:#fff3e0
-    style E fill:#e8f5e8
-    style F fill:#ffebee
-    style G fill:#e8f5e8
-    style H fill:#e8f5e8
+    style A fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style B fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style C fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style D fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style E fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
+    style F fill:#F44336,stroke:#D32F2F,stroke-width:2px,color:#FFF
+    style G fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
+    style H fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
 ```
 
 ## 🛠️ Technology Stack
@@ -268,14 +268,14 @@ graph TB
     B -->|SQL Queries| C
     B -->|AI Processing| D
     
-    style A fill:#e1f5fe
-    style B fill:#e8f5e8
-    style C fill:#fff3e0
-    style D fill:#f3e5f5
-    style E fill:#f0f4c3
-    style F fill:#ffebee
-    style G fill:#ffebee
-    style H fill:#e0f2f1
+    style A fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
+    style B fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style C fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style D fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style E fill:#795548,stroke:#5D4037,stroke-width:2px,color:#FFF
+    style F fill:#F44336,stroke:#D32F2F,stroke-width:2px,color:#FFF
+    style G fill:#F44336,stroke:#D32F2F,stroke-width:2px,color:#FFF
+    style H fill:#607D8B,stroke:#455A64,stroke-width:2px,color:#FFF
 ```
 
 ### 1. Clone the Repository
@@ -382,16 +382,16 @@ graph TD
     end
     
     subgraph "Core API Layer"
-        B[/api/v1/resources<br/>GET - List Resources]
-        C[/api/v1/optimizations<br/>POST - Get Recommendations]
-        D[/api/v1/costs/summary<br/>POST - Cost Analysis]
-        E[/api/v1/agent/status<br/>GET - AI Health]
+        B["/api/v1/resources<br/>GET - List Resources"]
+        C["/api/v1/optimizations<br/>POST - Get Recommendations"]
+        D["/api/v1/costs/summary<br/>POST - Cost Analysis"]
+        E["/api/v1/agent/status<br/>GET - AI Health"]
     end
     
     subgraph "ML Pipeline API"
-        F[/api/v1/ml/run-pipeline<br/>POST - Execute ML]
-        G[/api/v1/ai/explain-optimization<br/>POST - AI Explanations]
-        H[/api/v1/ai/analyze-trends<br/>POST - Trend Analysis]
+        F["/api/v1/ml/run-pipeline<br/>POST - Execute ML"]
+        G["/api/v1/ai/explain-optimization<br/>POST - AI Explanations"]
+        H["/api/v1/ai/analyze-trends<br/>POST - Trend Analysis"]
     end
     
     subgraph "Backend Services"
@@ -417,18 +417,18 @@ graph TD
     G --> L
     H --> L
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#f3e5f5
-    style D fill:#f3e5f5
-    style E fill:#f3e5f5
-    style F fill:#fff3e0
-    style G fill:#fff3e0
-    style H fill:#fff3e0
-    style I fill:#e8f5e8
-    style J fill:#e8f5e8
-    style K fill:#e8f5e8
-    style L fill:#e8f5e8
+    style A fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
+    style B fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style C fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style D fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style E fill:#9C27B0,stroke:#7B1FA2,stroke-width:2px,color:#FFF
+    style F fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style G fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style H fill:#FF9800,stroke:#F57C00,stroke-width:2px,color:#000
+    style I fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style J fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style K fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
+    style L fill:#2196F3,stroke:#1976D2,stroke-width:2px,color:#FFF
 ```
 
 ### Core Endpoints
