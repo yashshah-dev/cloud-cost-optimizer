@@ -77,23 +77,23 @@ graph TB
 ## 🎨 Frontend Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/screenshots/dashboard-overview.png)
+![Dashboard Overview](images/screenshots/dashboard.png)
 *Main analytics dashboard showing real-time cost monitoring, optimization opportunities, and key performance metrics*
 
 ### Optimization Queue
-![Optimization Queue](images/screenshots/optimization-queue.png)
+![Optimization Queue](images/screenshots/optimization.png)
 *AI-powered optimization recommendations with confidence scores, potential savings, and risk assessments*
 
 ### Cost Analytics & Trends
-![Cost Analytics](images/screenshots/cost-analytics.png)
+![Cost Analytics](images/screenshots/Reports.png)
 *Interactive charts and visualizations showing cost trends, forecasting, and anomaly detection*
 
 ### AI-Powered Explanations
-![AI Explanations](images/screenshots/ai-explanations.png)
+![AI Explanations](images/screenshots/AI_Explain.png)
 *Detailed AI explanations for complex optimization recommendations with business impact analysis*
 
 ### Resource Details View
-![Resource Details](images/screenshots/resource-details.png)
+![Resource Details](images/screenshots/Resources.png)
 *Individual resource optimization details with usage patterns and recommendation rationale*
 
 ## 🚀 Core Components
