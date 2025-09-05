@@ -77,11 +77,11 @@ graph TB
 ## 🎨 Frontend Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/screenshots/dashboard.png)
+![Dashboard Overview](images/screenshots/Dashboard.png)
 *Main analytics dashboard showing real-time cost monitoring, optimization opportunities, and key performance metrics*
 
 ### Optimization Queue
-![Optimization Queue](images/screenshots/optimization.png)
+![Optimization Queue](images/screenshots/Optimization.png)
 *AI-powered optimization recommendations with confidence scores, potential savings, and risk assessments*
 
 ### Cost Analytics & Trends
